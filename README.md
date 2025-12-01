@@ -16,9 +16,13 @@ Proyek ini dibuat sebagai bagian dari pembelajaran dan eksplorasi teknologi kece
 *   **JavaScript (ES6+)**: Untuk fungsionalitas interaktif dan logika aplikasi.
 
 ## 📂 Struktur Proyek
+---
 ├── index.html // Halaman utama aplikasi
+---
 ├── style.css // Berkas styling
+---
 └── script.js // Logika utama aplikasi
+---
 
 
 ## 🛠️ Cara Menjalankan
